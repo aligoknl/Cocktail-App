@@ -1,5 +1,5 @@
 export async function searchCocktail(query) {
-    const url = `https://www.thecocktaildb.com/api/json/v1/1/search.php?s=${query}`;
+    const url = `https://www.thecocktaildb.com/api/json/v1/1/search.php?f=${query}`;
     const response = await fetch(url);
     if (!response.ok) {
         throw new Error(`HTTP Error: ${response.status}`);
