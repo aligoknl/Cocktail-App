@@ -1,6 +1,6 @@
 import { fetchCocktail } from '../fetchers.js';
 import { displayError } from '../views/errorView.js';
-import { TOTAL_INGREDIENTS } from '../../constant.js';
+import { TOTAL_INGREDIENTS } from '../constant.js';
 
 export async function getDetail() {
     const list = document.getElementById('resultsList');
