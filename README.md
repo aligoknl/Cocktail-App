@@ -12,7 +12,7 @@ The Cokctail App is a web application that helps you to find your favorite drink
 
 ## 3. Structure Tree
 
-![Cocktail App!](/public/images/appTree.jpg)
+![Cocktail App!](/public/images/app-Tree.jpg)
 
 ## 4. Application
 
