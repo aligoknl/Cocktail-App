@@ -1,3 +1,3 @@
-import { getCocktails } from './src/index.js';
+import { getCocktails } from './index.js';
 
 window.addEventListener('load', getCocktails);
