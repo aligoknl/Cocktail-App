@@ -1,4 +1,4 @@
-import { SEARCH_DELAY_MSECS } from '../constant.js';
+import { SEARCH_DELAY_MSECS } from './constant.js';
 import { searchCocktail } from './fetchers.js';
 import { renderResults } from './pages/homePage.js';
 import { displayError } from './views/errorView.js';
