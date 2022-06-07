@@ -2,7 +2,7 @@
 
 ## 1. Link and Preview
 
-Project link is available at [Cocktail App](https://github.com/)
+Project link is available at [Cocktail App]([https://github.com/](https://aligoknl.github.io/Cokctail-App/index.html))
 
 ![Preview of Cocktail App!](/public/images/app_Preview.gif)
 
